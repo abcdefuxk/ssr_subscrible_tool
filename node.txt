@@ -6,4 +6,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@HK-2.abcdefuxk.fun:12333/?plug
 #🇺🇸US-1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@us-1.abcdefuxk.fun:56969/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#%F0%9F%87%BA%F0%9F%87%B8US-1
 # WTT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@hk.wtt2.ccddns.online:11668/#香港WTT2%281Gbps%29%28倍率%3A0.7%29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@hk.wtt2.ccddns.online:11668/#WTT
