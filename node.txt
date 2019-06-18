@@ -1,9 +1,6 @@
-#節點列表
-#🇭🇰HK-1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@hk-1.abcdefuxk.fun:11177/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#%F0%9F%87%AD%F0%9F%87%B0HK-1
-#🇭🇰HK-2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@HK-2.abcdefuxk.fun:12333/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#%F0%9F%87%AD%F0%9F%87%B0HK-2
-#🇺🇸US-1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@us-1.abcdefuxk.fun:56969/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#%F0%9F%87%BA%F0%9F%87%B8US-1
-# WTT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@hk.wtt2.ccddns.online:11668/#WTT
+#🇭🇰HK-WTT
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@hk.wtt2.ccddns.online:11668/#🇭🇰HK-WTT
+#🇭🇰HK-HKBN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@cchkbn2.ccddns.online:11668/#🇭🇰HK-HKBN
+#🇭🇰HK-HKT
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@hk-1.abcdefuxk.fun:11177/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#🇭🇰HK-HKT
