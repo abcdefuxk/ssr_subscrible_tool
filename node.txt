@@ -6,4 +6,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@hk.wtt2.ccddns.online:11668/#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@cchkbn2.ccddns.online:11668/#🇭🇰HK-HKBN
 #🇺🇸USA-CN2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@kas.abcdefuxk.fun:32517/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#🇺🇸USA-CN2
+#✈️台湾
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@tw.taifo.ccddns.online:11668/#✈️台湾
+#✈️美国
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@us.anch12.ccddns.online:11668/#✈️美国
 
