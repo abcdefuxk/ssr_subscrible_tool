@@ -6,7 +6,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29tQGhrLnd0dDIuY2NkZG5zLm9ubGluZTo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29tQGNjaGtibjIuY2NkZG5zLm9ubGluZToxMTY2OA#🇭🇰HK-HKBN
 #🇭🇰HK-HGC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@xz.abcdefuxk.fun:51729/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#🇭🇰HK-HGC
-#🇺🇸USA-CN3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@xz.abcdefuxk.fun:51720/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#🇺🇸USA-CN3
+#🇺🇸USA-CN4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@xz.abcdefuxk.fun:51720/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#🇺🇸USA-CN4
 
 
