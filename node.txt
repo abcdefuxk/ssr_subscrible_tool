@@ -1,8 +1,10 @@
 #🇭🇰HK-HKT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@xz.abcdefuxk.fun:12333/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#🇭🇰HK-HKT
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@xz.abcdefuxk.fun:12333/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#HK-HKT
 #🇭🇰HK-WTT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29tQHh6LmFiY2RlZnV4ay5mdW46MzY2ODg#🇭🇰HK-WTT
-#🇭🇰HK-HKBN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29tQHh6LmFiY2RlZnV4ay5mdW46MzY2Nzc#🇭🇰HK-HKBN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMHpPOEMweTVOYlV0TGQ2N3dAaGsud3R0Mi5jY2RkbnMub25saW5lOjExNjg4#HK-WTT
+#🇭🇰HK-HKBN2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMHpPOEMweTVOYlV0TGQ2N3dAY2Noa2JuMi5jY2RkbnMub25saW5lOjExNjg4#HK-HKBN2
+#🇭🇰HK-HKBN3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMHpPOEMweTVOYlV0TGQ2N3dAY2Noa2JuMy5jY2RkbnMub25saW5lOjExNjg4#HK-HKBN3
 #🇺🇸USA-CN2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@xz.abcdefuxk.fun:56363/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#🇺🇸USA-CN2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@xz.abcdefuxk.fun:56363/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#USA-CN2
