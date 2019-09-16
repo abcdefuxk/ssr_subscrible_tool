@@ -12,3 +12,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaDBFTGRFSUZLclVFbHVP@nat.abcdefuxk.fun:1233
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaDBFTGRFSUZLclVFbHVP@nat.abcdefuxk.fun:12336/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#🇺🇸US-GIA
 #HK-BACKUP
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@backup.abcdefuxk.fun:12333/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#🇭🇰HK-BACKUP
+#⚠️US-BACKUP
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@nat.abcdefuxk.fun:12339/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#⚠️US-BACKUP
