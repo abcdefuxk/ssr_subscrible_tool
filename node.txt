@@ -1,24 +1,13 @@
-#沪日专线
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaDBFTGRFSUZLclVFbHVP@cnjp.iplc.ccddns.online:11668/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#沪日专线
-#沪日专线2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaDBFTGRFSUZLclVFbHVP@cnjp.iplc2.ccddns.online:11668/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#沪日专线2
-#沪日专线3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaDBFTGRFSUZLclVFbHVP@cnjp.iplc3.ccddns.online:11668/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#沪日专线3
-#沪日专线4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaDBFTGRFSUZLclVFbHVP@cnjp.iplc4.ccddns.online:11668/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#沪日专线4
-#沪日专线5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaDBFTGRFSUZLclVFbHVP@cnjp.iplc5.ccddns.online:11668/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#沪日专线5
-
-#沪日专线6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaDBFTGRFSUZLclVFbHVP@cnjp.iplc6.ccddns.online:11668/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#沪日专线6
-#沪日专线7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaDBFTGRFSUZLclVFbHVP@cnjp.iplc7.ccddns.online:11668/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#沪日专线7
-#沪日专线8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaDBFTGRFSUZLclVFbHVP@cnjp.iplc8.ccddns.online:11668/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#沪日专线8
-#沪日专线9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaDBFTGRFSUZLclVFbHVP@cnjp.iplc9.ccddns.online:11668/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#沪日专线9
-#沪日专线10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaDBFTGRFSUZLclVFbHVP@cnjp.iplc10.ccddns.online:11668/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#沪日专线10
+#🇭🇰HK-HKT
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGU=@nat.abcdefuxk.fun:12666/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#🇭🇰HK-HKT
+#🇭🇰HK-BGP
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvUWRZTXlSalZEYTc=@nat.abcdefuxk.fun:12331/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#🇭🇰HK-BGP
+#🇯🇵JP-BGP
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvUWRZTXlSalZEYTc=@nat.abcdefuxk.fun:12332/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#🇯🇵JP-BGP
+#🇺🇸US-BGP
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvUWRZTXlSalZEYTc=@nat.abcdefuxk.fun:12333/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#🇺🇸US-BGP
+📺Netflix
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvUWRZTXlSalZEYTc=@nat.abcdefuxk.fun:12888/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Dstatic.hdslb.com.w.kunlunhuf.com#📺Netflix
 #深港专线17
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaDBFTGRFSUZLclVFbHVP@hk.iplc17.ccddns.online:11668/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#深港专线17
 #深港专线19
@@ -27,7 +16,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaDBFTGRFSUZLclVFbHVP@hk.iplc19.ccddns.onlin
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaDBFTGRFSUZLclVFbHVP@hk.iplc21.ccddns.online:11668/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#深港专线21
 #深港专线23
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaDBFTGRFSUZLclVFbHVP@hk.iplc23.ccddns.online:11668/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#深港专线23
-#深港专线2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaDBFTGRFSUZLclVFbHVP@47.106.222.31:11668/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#深港专线2
-#⚠️US-BACKUP
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@nat.abcdefuxk.fun:12339/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#⚠️US-BACKUP
