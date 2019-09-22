@@ -1,5 +1,5 @@
 #🇭🇰HK-HKT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGU=@nat.abcdefuxk.fun:12666/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#🇭🇰HK-HKT
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@cn2.abcdefuxk.fun:12666/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#🇭🇰HK-HKT
 #🇭🇰HK-BGP
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvUWRZTXlSalZEYTdAbmF0LmFiY2RlZnV4ay5mdW46MTIzMzE#🇭🇰HK-BGP
 #🇯🇵JP-BGP
