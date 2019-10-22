@@ -3,9 +3,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@nat.abcdefuxk.fun:22666/?plugi
 #🇭🇰HK-HGC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb29nbGUuY29t@nat.abcdefuxk.fun:12666/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddownload.windowsupdate.com#🇭🇰HK-HGC
 #🇭🇰HK-BGP
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvUWRZTXlSalZEYTdAbmF0LmFiY2RlZnV4ay5mdW46NTAxNzA#🇭🇰HK-BGP
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvUWRZTXlSalZEYTdAbmF0LmFiY2RlZnV4ay5mdW46MjAyMDE#🇭🇰HK-BGP
 #🇯🇵JP-BGP
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvUWRZTXlSalZEYTdAbmF0LmFiY2RlZnV4ay5mdW46NTAxNzE#🇯🇵JP-BGP
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvUWRZTXlSalZEYTdAbmF0LmFiY2RlZnV4ay5mdW46MjAyMDI#🇯🇵JP-BGP
 #🇺🇸US-BGP
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvUWRZTXlSalZEYTdAbmF0LmFiY2RlZnV4ay5mdW46NTAxNzI#🇺🇸US-BGP
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvUWRZTXlSalZEYTdAbmF0LmFiY2RlZnV4ay5mdW46MjAyMDM#🇺🇸US-BGP
 
